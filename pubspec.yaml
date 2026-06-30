@@ -61,7 +61,6 @@ flutter:
 
   # เพิ่ม assets เข้าไปตรงนี้ (ระวังการเว้นวรรค ต้องเคาะ Spacebar 2 ครั้งหน้าเครื่องหมายขีด)
   assets:
-    - .env
     - assets/
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
